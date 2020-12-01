@@ -1,0 +1,319 @@
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._000054_Abm_Deposito.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._000054_Abm_Deposito.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Servicios.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Dominio.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Servicios.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Servicios.dll.config
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Dominio.pdb
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Dominio.dll.config
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionListaPrecio.resources
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Desktop\Lab 2\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll

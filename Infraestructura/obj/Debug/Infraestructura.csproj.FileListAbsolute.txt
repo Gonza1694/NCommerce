@@ -1,0 +1,131 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.Localidad.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Pablo\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\WINDOWS 10\Desktop\Laboratorio 2\Notebook\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+D:\Desktop\Laboratorio 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+D:\Desktop\Lab 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
